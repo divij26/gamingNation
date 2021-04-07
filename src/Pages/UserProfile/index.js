@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function index() {
-  return <div>User Profile</div>;
+  return (
+    <div>
+      <p>User Profile</p>
+    </div>
+  );
 }
