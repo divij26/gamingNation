@@ -1,12 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
-
+import UserProfilePage from "./Pages/UserProfile";
 function App() {
-  return (
-    <div className="App">
-      <p>Game Dribble</p>
-    </div>
-  );
+  return <UserProfilePage />;
 }
 
 export default App;
