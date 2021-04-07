@@ -4,7 +4,7 @@ export default function index() {
   return (
     <div>
       <p>User Profile</p>
-      <p>Test</p>
+      <p>Tes1t</p>
     </div>
   );
 }
